@@ -1,4 +1,4 @@
-![example workflow](https://github.com/IlDezmond/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![workflow](https://github.com/IlDezmond/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # yamdb-final
 [comment]: <> (Документация работает. Работала она у меня и в прошлый раз.)
 ## Описание
