@@ -1,6 +1,6 @@
 ![workflow](https://github.com/IlDezmond/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # yamdb-final
-[comment]: <> (Документация работает. Работала она у меня и в прошлый раз.)
+### ip сервера - 158.160.17.234
 ## Описание
 Проект YaMDb собирает отзывы пользователей на различные произведения.
 
