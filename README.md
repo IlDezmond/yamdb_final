@@ -1,6 +1,5 @@
 ![workflow](https://github.com/IlDezmond/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # yamdb-final
-### ip сервера - 158.160.17.234
 ## Описание
 Проект YaMDb собирает отзывы пользователей на различные произведения.
 
